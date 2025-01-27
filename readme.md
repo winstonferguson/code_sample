@@ -2,7 +2,7 @@
 
 This sample should give a fair reflection of my capacity as a developer. It's pulled from one of my private repositories.
 
-I can't say I'm really proud of any code that I've written about a week after I've written it, but I am proud of what this code can do and it's improvement over what I would have written before it. 
+As someone constantly striving to improve, I find it hard to feel proud of any code I've written about a week after I've written it. However, I am proud of what this code can do and it's improvement over what I would have written before it. 
 
 ## What
 
